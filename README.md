@@ -23,7 +23,8 @@ Size: 512x512
 
 <img width="1062" alt="Знімок екрана 2023-10-05 о 19 29 08" src="https://github.com/xrust83/iconz2m/assets/58448955/8065a97e-c84c-4975-97fd-39955f3eeef4">
 
-4.At the bottom of the page, in the "icon" field, enter a link to the picture `https://raw.githubusercontent.com/xrust83/iconz2m/main/images/NAME.png` where NAME is the model of your device
+
+4. At the bottom of the page, in the "icon" field, enter a link to the picture `https://raw.githubusercontent.com/xrust83/iconz2m/main/images/NAME.png` where NAME is the model of your device
 
 <img width="1076" alt="Знімок екрана 2023-10-05 о 19 30 23" src="https://github.com/xrust83/iconz2m/assets/58448955/92657a8c-1217-41a4-b3ac-678aef3fca52">
 
