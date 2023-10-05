@@ -1,7 +1,9 @@
 Icon for zigbee2mqtt
 
 Format: PNG
+
 Size: 512x512
+
 DPI: 72
 
 # Screenshots
